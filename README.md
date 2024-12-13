@@ -1,1 +1,1 @@
-# Simon-Jest-Testing
+# Simon Game - Jest Testing
