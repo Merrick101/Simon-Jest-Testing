@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Merrick101/Simon-Jest-Testing/issues"
   },
-  "homepage": "https://github.com/Merrick101/Simon-Jest-Testing#readme"
+  "homepage": "https://github.com/Merrick101/Simon-Jest-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
