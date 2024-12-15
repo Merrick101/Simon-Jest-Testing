@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Merrick101/Simon-Jest-Testing#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
